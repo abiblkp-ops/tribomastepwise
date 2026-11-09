@@ -1,0 +1,12 @@
+# Mengabaikan file kredensial dan environment rahasia
+.env
+
+# Mengabaikan folder dependensi dan hasil build
+node_modules/
+dist/
+build/
+.next/
+
+# Mengabaikan file sistem operasi
+.DS_Store
+Thumbs.db
