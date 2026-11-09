@@ -7,7 +7,7 @@
 
 ## 📌 Team Profile
 * **Team Name:** Triboma
-* * **Developers Name:** Abib Musa Chris Wardana, Bagas, Satria
+* **Developers Name:** Abib Musa Chris Wardana, Bagas, Satria
 * **Category:** Web Application
 * **Repository Status:** Public
 
