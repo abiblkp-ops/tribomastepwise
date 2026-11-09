@@ -6,7 +6,8 @@
 ---
 
 ## 📌 Team Profile
-* **Team Name:** Triboma (FORGAPRO)
+* **Team Name:** Triboma
+* * **Developers Name:** Abib Musa Chris Wardana, Bagas, Satria
 * **Category:** Web Application
 * **Repository Status:** Public
 
